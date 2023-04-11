@@ -4,7 +4,7 @@
 
 ---
 
-### :man_technologist: <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=35&pause=1000&color=FFFFFF&width=435&lines=About+Me:" alt="Typing SVG" />
+### <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=35&pause=1000&color=FFFFFF&width=435&lines=About+Me:" alt="Typing SVG" />
 
 
 ---

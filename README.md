@@ -8,7 +8,7 @@
 
 
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFFFFF&width=590&lines=%F0%9F%91%8B+I%60m+Yevgeniy;%F0%9F%A4%9D+Java+Developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFFFFF&width=590&lines=%F0%9F%91%8B+I%60m+Yevgeniy+%F0%9F%A4%9D+Java+Developer)](https://git.io/typing-svg)
 
 
 
@@ -65,11 +65,11 @@
 <!--[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ShumaW&layout=compact&theme=dark)](https://git.io/streak-stats)-->
 <!--![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ShumaW&layout=compact&show_icons=true&theme=dark)-->
 
-
+<div align="left" dir="auto">
 <img src="https://streak-stats.demolab.com?user=ShumaW&theme=dark" width="285" height="150" alt=""/>
 <img src="https://github-readme-stats.vercel.app/api?username=ShumaW&show_icons=true&theme=dark" width="270" height="150" alt=""/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShumaW&layout=compact&theme=dark" width="240" height="150"/>
-
+</div>
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShumaW&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)-->
 
 ---

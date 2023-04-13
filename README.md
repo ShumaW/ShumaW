@@ -46,18 +46,16 @@
 
 ---
 
-<div align = "center">
-<img src="https://komarev.com/ghpvc/?username=ShumaW&style=plastic&color=blue" alt=""/>
-</div>
-
----
-
 ### :fire: My Stats :
-
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ShumaW&theme=dark)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShumaW&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
+---
+
+<div align = "center">
+<img src="https://komarev.com/ghpvc/?username=ShumaW&style=plastic&color=blue" alt=""/>
+</div>
 
 
 <!--

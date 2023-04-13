@@ -1,10 +1,24 @@
-### Junior Java Developer
+
+
+# Hello! Hallo!
+
+
 
 ---
 
+
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFFFFF&width=590&lines=%F0%9F%91%8B+I%60m+Yevgeniy;%F0%9F%A4%9D+Java+Developer)](https://git.io/typing-svg)
+
+
+
+<!--
 <div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="500" height="350"/>
+
+<img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="500" height="350"/>)
+
 </div>
+-->
 
 ---
 
@@ -40,16 +54,23 @@
   <img src="https://camo.githubusercontent.com/fbfcb9e3dc648adc93bef37c718db16c52f617ad055a26de6dc3c21865c3321d/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f6769742d73636d2f6769742d73636d2d69636f6e2e737667" alt="GIT" width="55" height="55" data-canonical-src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" style="max-width: 100%;">&nbsp;
   <img src="https://camo.githubusercontent.com/b9d9be4825c5a5e8319f2a3e0624afe8b3dc76f81745c1b947561431c3ce3387/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f6170616368655f6b61666b612f6170616368655f6b61666b612d69636f6e2e737667" alt="apache_kafka" width="45" height="55" data-canonical-src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" style="max-width: 100%;">&nbsp;
   <img src="https://camo.githubusercontent.com/52efcb7f1ba0a82b322c4d1eb8d33ebe886627b405013ed2f1d1c3cf818abbeb/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f7261626269746d712f7261626269746d712d69636f6e2e737667" alt="rabbitmq" width="45" height="55" data-canonical-src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" style="max-width: 100%;">&nbsp;
-  <img src="https://camo.githubusercontent.com/265574c40f0816ed0fd67127cfbc382866182a7ec468c614906103c15700e707/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f6a656e6b696e732f6a656e6b696e732d69636f6e2e737667" alt="jenkins" width="45" height="55" data-canonical-src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" style="max-width: 100%;">&nbsp;
+  <img src="https://camo.githubusercontent.com/265574c40f0816ed0fd67127cfbc382866182a7ec468c614906103c15700e707/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f6a656e6b696e732f6a656e6b696e732d69636f6e2e737667" alt="jenkins" width="45" height="55" data-canonical-src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" style="max-width: 100%;">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="45" height="55" style="max-width: 100%;">
 <!-- img src="https://camo.githubusercontent.com/5c52044e01222cc66415f3acf1b54cfb936e9bdd3076eb844884568c64b414ca/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f646f636b65722f646f636b65722d6f6666696369616c2e737667" alt="docker" width="60" height="50" data-canonical-src="https://www.vectorlogo.zone/logos/docker/docker-official.svg" style="max-width: 100%;"> -->
 </div>
 
 ---
 
 ### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ShumaW&theme=dark)](https://git.io/streak-stats)
+<!--[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ShumaW&layout=compact&theme=dark)](https://git.io/streak-stats)-->
+<!--![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ShumaW&layout=compact&show_icons=true&theme=dark)-->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShumaW&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
+<img src="https://streak-stats.demolab.com?user=ShumaW&theme=dark" width="285" height="150" alt=""/>
+<img src="https://github-readme-stats.vercel.app/api?username=ShumaW&show_icons=true&theme=dark" width="270" height="150" alt=""/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShumaW&layout=compact&theme=dark" width="240" height="150"/>
+
+<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShumaW&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)-->
 
 ---
 

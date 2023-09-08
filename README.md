@@ -8,7 +8,7 @@
 
 
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFFFFF&width=590&lines=%F0%9F%91%8B+I%60m+Yevgeniy+%F0%9F%A4%9D+Java+Developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00BFFF&width=590&lines=%F0%9F%91%8B+I%60m+Yevgeniy+%F0%9F%A4%9D+Java+Developer)](https://git.io/typing-svg)
 
 
 

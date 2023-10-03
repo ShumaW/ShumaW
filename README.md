@@ -30,8 +30,8 @@
 ### <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" width="45px" data-animated-image="" style="max-width: 100%;"> About Me and my skills:
 
 - I`m Java back-end developer
-- Java, Spring boot
-- MYSQL, MongoDB
+- Java, Spring boot, Liquibase, MapStruct, JUnit
+- MYSQL, MongoDB, PostgreSQL
 - RabbitMQ, Kafka
 - Grafana
 ---
@@ -65,10 +65,10 @@
 <!--[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ShumaW&layout=compact&theme=dark)](https://git.io/streak-stats)-->
 <!--![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ShumaW&layout=compact&show_icons=true&theme=dark)-->
 
-<div align="left" dir="auto">
+<div dir="auto">
 <img src="https://streak-stats.demolab.com?user=ShumaW&theme=dark" width="285" height="150" alt=""/>
 <img src="https://github-readme-stats.vercel.app/api?username=ShumaW&show_icons=true&theme=dark" width="270" height="150" alt=""/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShumaW&layout=compact&theme=dark" width="240" height="150"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShumaW&layout=compact&theme=dark" width="240" height="150" alt=""/>
 </div>
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShumaW&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)-->
 

@@ -30,7 +30,10 @@
 ### <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" width="45px" data-animated-image="" style="max-width: 100%;"> About Me and my skills:
 
 - I`m Java back-end developer
-- Java, Spring boot, Liquibase, MapStruct, JUnit
+- Java, Spring Framework
+- Spring Security, JWT
+- Liquibase, MapStruct 
+- JUnit, Mockito, Jacoco
 - MYSQL, MongoDB, PostgreSQL
 - RabbitMQ, Kafka
 - Grafana

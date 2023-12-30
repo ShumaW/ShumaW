@@ -22,8 +22,8 @@
 
 ---
 
-<a href="mailto:evgeniy.shulimenko@gmail.com"><img align="center" src="https://camo.githubusercontent.com/66983abffc63495d5d2ba763f5979b1f2c18cf4852fc139e35839aef3a249779/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f6e706d2f73696d706c652d69636f6e7340332e302e312f69636f6e732f676d61696c2e737667" alt="apoorv#4040" height="40" width="30" data-canonical-src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" style="max-width: 100%;">
-<a href="https://t.me/evgeniy_shulimenko" rel="nofollow"><img align="center" src="https://camo.githubusercontent.com/35650e49d3cc754ccc618cf7731d3d1a2c701d6cfd69ce9f22b0f7779c0f3204/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f6e706d2f73696d706c652d69636f6e7340332e302e312f69636f6e732f74656c656772616d2e737667" alt="apoorv#4040" height="40" width="30" data-canonical-src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg" style="max-width: 100%;">
+<a href="mailto:evgeniy.shulimenko@gmail.com"><img align="center" src="icon/4202011emailgmaillogomailsocialsocialmedia-115677_115624.svg" alt="apoorv#4040" height="40" width="30" data-canonical-src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" style="max-width: 100%;">
+<a href="https://t.me/evgeniy_shulimenko" rel="nofollow"><img align="center" src="icon/telegram_icon_130816.svg" alt="apoorv#4040" height="40" width="30" data-canonical-src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg" style="max-width: 100%;">
 
 --- 
 
@@ -55,10 +55,10 @@
   <img src="icon/mysql_plain_logo_icon_146414.svg" alt="mysql" width="45" height="55" data-canonical-src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" style="max-width: 100%;"/>&nbsp;
   <img src="icon/mongodb_plain_wordmark_logo_icon_146423.svg" alt="mongodb" width="45" height="55" data-canonical-src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" style="max-width: 100%;">&nbsp;
   <img src="icon/git_plain_logo_icon_146507.svg" alt="GIT" width="55" height="55" data-canonical-src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" style="max-width: 100%;">&nbsp;
-  <img src="icon/apache_kafka_logo_icon_167865.svg" alt="apache_kafka" width="45" height="55" data-canonical-src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" style="max-width: 100%;">&nbsp;
+  <img src="icon/apache_kafka_logo_icon_167865.svg" alt="apache_kafka" width="45" height="55">&nbsp;
   <img src="icon/rabbitmq_logo_icon_170810.svg" alt="rabbitmq" width="45" height="55" data-canonical-src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" style="max-width: 100%;">&nbsp;
   <img src="icon/jenkins_logo_icon_170552.svg" alt="jenkins" width="45" height="55" data-canonical-src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" style="max-width: 100%;">
-<img src="icon/linux_original_logo_icon_146433.svg" alt="linux" width="45" height="55" style="max-width: 100%;">
+  <img src="icon/linux_original_logo_icon_146433.svg" alt="linux" width="45" height="55" style="max-width: 100%;">
 <!-- img src="https://camo.githubusercontent.com/5c52044e01222cc66415f3acf1b54cfb936e9bdd3076eb844884568c64b414ca/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f646f636b65722f646f636b65722d6f6666696369616c2e737667" alt="docker" width="60" height="50" data-canonical-src="https://www.vectorlogo.zone/logos/docker/docker-official.svg" style="max-width: 100%;"> -->
 </div>
 

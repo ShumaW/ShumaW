@@ -50,7 +50,7 @@
 ### Languages and Tools :
 
 <div>
-  <img src="https://camo.githubusercontent.com/ec75fffa4a003fa9ea6ba393834fdbf4fab55e5252776c41024e811a351fdec7/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f6a6176612f6a6176612d69636f6e2e737667" alt="java" width="65" height="65" data-canonical-src="https://www.vectorlogo.zone/logos/java/java-icon.svg" style="max-width: 100%;">&nbsp;
+  <img src="icon/icons8-логотип-java-coffee-cup.svg" alt="java" width="65" height="65" data-canonical-src="https://www.vectorlogo.zone/logos/java/java-icon.svg" style="max-width: 100%;">&nbsp;
   <img src="https://camo.githubusercontent.com/4545b55c7771bbd175235c80b518dcbbf2f6ee0b984a51ad9363cba8cb70e67c/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f737072696e67696f2f737072696e67696f2d69636f6e2e737667" alt="spring" width="55" height="55" data-canonical-src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" style="max-width: 100%;">&nbsp;
   <img src="https://camo.githubusercontent.com/ff6f52ffdfce44372e3be3eda37d354ce2a15874e9b15996c2263172683f7bcd/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f6d7973716c2f6d7973716c2d69636f6e2e737667" alt="mysql" width="45" height="55" data-canonical-src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" style="max-width: 100%;"/>&nbsp;
   <img src="https://camo.githubusercontent.com/1b938a8770774c11ebdf27c1c371d173a48c6f0504cc224a8a6b47d5a8a332ac/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f6d6f6e676f64622f6d6f6e676f64622d69636f6e2e737667" alt="mongodb" width="45" height="55" data-canonical-src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" style="max-width: 100%;">&nbsp;

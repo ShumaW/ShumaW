@@ -54,7 +54,7 @@
 <div>
   <img src="icon/icons8-логотип-java-coffee-cup.svg" alt="java" width="65" height="65" data-canonical-src="https://www.vectorlogo.zone/logos/java/java-icon.svg" style="max-width: 100%;">&nbsp;
   <img src="icon/icons8-логотип-spring.svg" alt="spring" width="55" height="55" data-canonical-src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" style="max-width: 100%;">
-  <img src="icon/docker-svgrepo-com.svg" alt="spring" width="55" height="55" data-canonical-src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" style="max-width: 100%;">
+  <img src="icon/docker-icon.svg" alt="spring" width="55" height="55" data-canonical-src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" style="max-width: 100%;">
   <img src="icon/mysql_plain_logo_icon_146414.svg" alt="mysql" width="45" height="55" data-canonical-src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" style="max-width: 100%;"/>&nbsp;
   <img src="icon/mongodb_plain_wordmark_logo_icon_146423.svg" alt="mongodb" width="45" height="55" data-canonical-src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" style="max-width: 100%;">&nbsp;
   <img src="icon/git_plain_logo_icon_146507.svg" alt="GIT" width="55" height="55" data-canonical-src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" style="max-width: 100%;">&nbsp;

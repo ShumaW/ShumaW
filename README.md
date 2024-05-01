@@ -33,12 +33,14 @@
 - Java, Spring Framework
 - Spring Security, JWT
 - Docker, Docker compose
+- Github CI/CD
 - AWS S3 Bucket
 - Liquibase, MapStruct 
 - JUnit, Mockito, Jacoco
 - MYSQL, MongoDB, PostgreSQL
 - RabbitMQ, Kafka
 - Grafana
+- Jira
 ---
 - I'm a fast learner
 - Problem-solving
